@@ -38,4 +38,4 @@ Follow these steps to run the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/particle-effect-simulator.git
+   git clone https://github.com/MrChipDiamond/Particles.git
